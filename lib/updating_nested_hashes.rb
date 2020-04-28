@@ -63,7 +63,7 @@ def add_characters
 
 
 def additional_characters
-  epic_tragedy
+  epic_tragedy[:additional_characters] = []
 end
 
 
