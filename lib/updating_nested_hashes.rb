@@ -62,7 +62,9 @@ def add_characters
    # Code your solution here:
 
 
-
+def additional_characters
+  epic_tragedy
+end
 
 
    # After your code, the following line will return the altered hash
