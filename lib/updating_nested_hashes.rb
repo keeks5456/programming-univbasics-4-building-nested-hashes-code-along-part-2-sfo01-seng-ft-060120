@@ -68,4 +68,5 @@ def add_characters
     {name: "Apothecary"}
     ]
    epic_tragedy
+ end
 end
