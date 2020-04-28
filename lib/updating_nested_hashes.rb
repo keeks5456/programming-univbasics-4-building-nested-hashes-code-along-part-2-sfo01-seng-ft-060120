@@ -26,7 +26,6 @@ def update_status
 epic_tragedy[:montague][:hero][:status] = "dead"
 epic_tragedy[:capulet][:heroine][:status] ="dead"
 
-  # After your code, the following code will return the altered hash. This method must only return the modified epic_tragedy hash
   epic_tragedy
 end
 
@@ -52,7 +51,6 @@ def add_characters
       }
    }
    
-   
    # Write code below that does the following programmatically:
    #
    # - Add an additional :additional_characters key to epic_tragedy and assign it an array as its value
@@ -62,12 +60,11 @@ def add_characters
    # Code your solution here:
 
 
-dadd_charactersef 
   epic_tragedy[:additional_characters] = []
   prince = {name: "Prince Escalus"}
   apothecary = {name: "Apothecary"}
   epic_tragedy[:additional_characters][0] = { name: "Prince Escalus" }
 epic_tragedy[:additional_characters][1] = { name: "Apothecary" }
-  end
+  
 epic_tragedy
 end
