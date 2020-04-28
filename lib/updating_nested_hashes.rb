@@ -62,10 +62,11 @@ def add_characters
    # Code your solution here:
 
 
-def additional_characters
+def add_characters
   epic_tragedy[:additional_characters] = [
     {name: "Prince Escalus"},
-    {name: "Apothecary"}]
+    {name: "Apothecary"}
+    ]
 end
 
 
