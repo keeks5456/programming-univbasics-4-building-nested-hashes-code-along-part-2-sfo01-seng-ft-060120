@@ -71,5 +71,5 @@ epic_tragedy[:additional_characters][1] = { name: "Apothecary" }
 end
 
 
-  epic_tragedy
+  epic_tragedy[:additional_characters]
 end
