@@ -51,12 +51,8 @@ def add_characters
          ]
       }
    }
-
-def update_status
-  return epic_tragedy[:montague][:hero][:status] = "dead"
-  return epic_tragedy[:capulet][:heroine][:status] = "dead"
-end
-
+   
+   
    # Write code below that does the following programmatically:
    #
    # - Add an additional :additional_characters key to epic_tragedy and assign it an array as its value
